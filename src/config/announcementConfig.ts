@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "欢迎来到我的网站，以后会更新一下实用的东西",
+	content: "欢迎来到我的网站，右上角可以改亮色，还有主题颜色",
 
 	// 是否允许用户关闭公告
 	closable: true,

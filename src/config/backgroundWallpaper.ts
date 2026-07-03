@@ -185,7 +185,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 背景模糊度
 		blur: 0,
 		// 卡片透明度，0-1之间，值越小越透明
-		cardOpacity: 0.5,
+		cardOpacity: 0.6,
 	},
 	// 全屏壁纸模式特有配置
 	fullscreen: {

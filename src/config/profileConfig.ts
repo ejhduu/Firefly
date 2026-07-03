@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "妥妥子",
 
 	// 个人签名
-	bio: "单推塔菲",
+	bio: "关注塔菲喵，关注塔菲谢谢喵",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

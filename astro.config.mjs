@@ -56,11 +56,6 @@ const adapter = process.env.CF_WORKERS
 export default defineConfig({
 	site: siteConfig.site_url,
 
-	server: {
-		host: "0.0.0.0",
-		port: 4321,
-	},
-
 	base: "/",
 	trailingSlash: "always",
 

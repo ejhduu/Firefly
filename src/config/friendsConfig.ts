@@ -8,7 +8,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 	title: "",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
-	description: "关注塔菲喵，关注塔菲谢谢喵",
+	description: "",
 
 	// 是否显示底部自定义内容（friends.mdx 中的内容）
 	showCustomContent: true,

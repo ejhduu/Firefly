@@ -255,7 +255,7 @@ html {
  
     
     .wallpaper-transparent #navbar > div {
-        background-color: transparent !important;
+        background-color: var(--card-bg-transparent) !important;
     }
 
     /* Overlay 模式下，滚动后提高导航栏背景模糊度，增强与正文区分 */
